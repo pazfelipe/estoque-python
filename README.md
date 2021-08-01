@@ -26,6 +26,8 @@ Tudo isso vamos orquestrar via `docker-compose` e ao final, vamos subir tudo par
 
 Ufa, acho que era isso. Enquanto vou liberando o projeto, vou atualizando essa intro para que você acompanhe passo a passo o progresso do nosso projeto.
 
+## Etapas
+
 - Backend
   - [ ] Instalação python
   - [ ] Definição da estrutura
